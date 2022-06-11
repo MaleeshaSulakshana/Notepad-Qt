@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>images/bold.png</file>
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/folder.png</file>
+        <file>images/fonts.png</file>
+        <file>images/info.png</file>
+        <file>images/italic.png</file>
+        <file>images/new-file.png</file>
+        <file>images/paste.png</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/printer.png</file>
+        <file>images/redo.png</file>
+        <file>images/save.png</file>
+        <file>images/sound.png</file>
+        <file>images/stop.png</file>
+        <file>images/text-color.png</file>
+        <file>images/text-size.png</file>
+        <file>images/theme.png</file>
+        <file>images/underline.png</file>
+        <file>images/undo.png</file>
+        <file>images/voice.png</file>
+        <file>images/calculator.png</file>
+        <file>images/notes.png</file>
+    </qresource>
+</RCC>
